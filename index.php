@@ -6,5 +6,5 @@
 	{
 		echo 'hahahah';
 	}
-
+	$wkein = 90;
 ?>
